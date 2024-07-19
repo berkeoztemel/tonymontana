@@ -86,7 +86,7 @@ if user_choice == "report":
 if user_choice == "latte":
     process_coins()
 
-print("last_Versioasdsadef")
+print("last_Versioasadef")
 
 
 
