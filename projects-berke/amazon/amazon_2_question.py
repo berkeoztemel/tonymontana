@@ -1,8 +1,9 @@
-'''Create a program in any language to arrange the numbers in ascending order.
-'''
+
 
 class AscendingOrder:
     def bubble_sort(array):
+        '''Create a program in any language to arrange the numbers in ascending order.
+        '''
         n = len(array)
 
         for i in range(n):
