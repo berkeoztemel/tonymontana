@@ -29,6 +29,10 @@ while is_on == True:
         numbers = list(map(int, input("Enter multiple values for ascending numbers:(ex: 1 3 9 2 .. ..): \n").split()))
         print(AscendingOrder.bubble_sort(numbers))
 
+    #need more information about question 3 and question 4
+    #question 5 is on progress
+    #question 6 not start yet
+
     elif question_number == "7":
         numbers = int(input("Enter number for FizzBuzz Game: \n"))
         FizzBuzz.fizz_buzz_game(numbers)

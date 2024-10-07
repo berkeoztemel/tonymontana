@@ -1,6 +1,4 @@
 
-
-
 class FizzBuzz:
     def fizz_buzz_game(number):
         '''Write a program that prints out the integer numbers from 1 to 100.
